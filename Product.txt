@@ -1,0 +1,18 @@
+Product ID    Product Name         Manufacturer       Description                                       Category
+-------------------------------------------------------------------------------------------------------------
+,101           T-Shirt              Nike               Men's black cotton T-Shirt with Nike logo         Clothes
+,102           Jeans                Levi's             Women's blue denim jeans                          Clothes
+,103           Smartphone           Apple              iPhone 12 Pro Max, 128GB, Pacific Blue            Electronics
+,104           Laptop               Dell               Inspiron 15 3000 Series, Intel Core i5, 8GB RAM   Electronics
+,105           Chocolate            Cadbury            Dairy Milk, 100g                                  Food
+,106           Coffee               Starbucks          Medium roast ground coffee, 250g                  Food
+,107           Sneakers             Adidas             Women's Ultraboost 21 running shoes, pink/white   Clothes
+,108           Hoodie               Under Armour       Men's Threadborne Fleece Hoodie, grey             Clothes
+,109           Smartwatch           Samsung            Galaxy Watch Active2, 40mm, Cloud Silver          Electronics
+,110           Headphones           Bose               QuietComfort 35 wireless headphones II, black     Electronics
+,111           Potato-Chips         Lay's              Classic Salted, 150g                              Food
+,112           Energy-Drink         Red Bull           Original, 250ml                                   Food
+,113	      Al-Ahly-T-Shirt      Adidas             Al Ahly Home T-Shirt                              Clothes
+,114           Jacket               The North Face     Women's Resolve Plus Jacket, black                Clothes
+,115           Smart-Speaker        Amazon             Echo Dot, 4th Generation, Charcoal                Electronics
+,116           Ice-Cream            Ben & Jerry's      Cherry Garcia, 500ml                              Food 
